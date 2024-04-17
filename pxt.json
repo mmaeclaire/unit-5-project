@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "multiplayer": "*"
+        "multiplayer": "*",
+        "Unit 5 Project": "github:mmaeclaire/unit-5-project#5baa20c9f7a3bd3edad3a43db4c744f30aab5bcf"
     },
     "files": [
         "main.blocks",
