@@ -4,7 +4,7 @@
     "dependencies": {
         "device": "*",
         "multiplayer": "*",
-        "Unit 5 Project": "github:mmaeclaire/unit-5-project#5baa20c9f7a3bd3edad3a43db4c744f30aab5bcf"
+        "Unit 5 Project": "github:mmaeclaire/unit-5-project#330d27536eb73de9d78430fc1069fecf02cadc23"
     },
     "files": [
         "main.blocks",
