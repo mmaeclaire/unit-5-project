@@ -169,5 +169,6 @@ let ghost4: Sprite = null
 let ghost3: Sprite = null
 let ghost2: Sprite = null
 let ghost: Sprite = null
+tiles.setCurrentTilemap(tilemap`level8`)
 scene.setBackgroundColor(15)
 Characters()
